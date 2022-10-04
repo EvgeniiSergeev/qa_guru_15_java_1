@@ -4,6 +4,10 @@ public class HelloWorld {
 
     public static void main(String[] args) {
 
+        // Операторы математические + - * / %
+        // Операторы условные > < >= <= == != !
+        // Операторы логические && - И" || - "ИЛИ"
+
         int q = 15;
         int w = 13;
         double e = -7.5;
@@ -52,8 +56,8 @@ public class HelloWorld {
 //        int aInt; // 32 бит
 //        long aLong; // 64 бит
 //
-//        float aFloat; // 32 бит
-//        double aDouble = 1.5; // 64 бит - болеше распространено
+//        float aFloat; // 32 бит (3.4e-38 ; 3.4e+38)
+//        double aDouble = 1.5; // 64 бит - болеше распространено (1.7e-308 ; 1.7e+308)
 //        char aChar = '1'; // не более 1 символа
 
 //        Объектныйх тип данный - Class
